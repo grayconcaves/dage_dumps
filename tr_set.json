@@ -1,0 +1,42 @@
+{
+    "Red Ribbon": {"slot": ["head"], "set": "Wei Wuxian", "parts": 7, "att": 0, "cha": 10, "int": 0, "dex": 5, "luck": 5, "rarity":"set"},
+    "Wen Brand Scar": {"slot": ["chest"], "set": "Wei Wuxian", "parts": 7, "att": 0, "cha": -1, "int": 0, "dex": -1, "luck": 7, "rarity":"set"},
+    "Ghost Makeup": {"slot": ["charm"], "set": "Wei Wuxian", "parts": 7, "att": 5, "cha": -5, "int": 5, "dex": 5, "luck": 5, "rarity":"set"},
+    "Golden Core": {"slot": ["legs"], "set": "Wei Wuxian", "parts": 7, "att": 7, "cha": 5, "int": 8, "dex": 5, "luck": -9, "rarity":"set"},
+    "Red Belt": {"slot": ["belt"], "set": "Wei Wuxian", "parts": 7, "att": 0, "cha": 0, "int": 0, "dex": 10, "luck": 0, "rarity":"set"},
+    "Demonic Cultivation": {"slot": ["gloves"], "set": "Wei Wuxian", "parts": 7, "att": 10, "cha": -10, "int": 10, "dex": 7, "luck": -10, "rarity":"set"},
+    "Noose of the Martyr": {"slot": ["neck"], "set": "Wei Wuxian", "parts": 7, "att": 0, "cha": 8, "int": 0, "dex": 0, "luck": -5, "rarity":"set"},
+
+    "Chenqing": {"slot": ["right", "left"], "set": "Cultivator Gear", "parts": 15, "att": 0, "cha": 0, "int": 12, "dex": 0, "luck": 0, "rarity":"set"},
+    "Suibian": {"slot": ["right"], "set": "Cultivator Gear", "parts": 15, "att": 8, "cha": 0, "int": 0, "dex": 4, "luck": 4, "rarity":"set"},
+    "Wangji": {"slot": ["right", "left"], "set": "Cultivator Gear", "parts": 15, "att": 0, "cha": 0, "int": 10, "dex": -3, "luck": 0, "rarity":"set"},
+    "Sandu": {"slot": ["right"], "set": "Cultivator Gear", "parts": 15, "att": 7, "cha": 0, "int": 3, "dex": 2, "luck": 1, "rarity":"set"},
+    "Zidian": {"slot": ["right"], "set": "Cultivator Gear", "parts": 15, "att": 7, "cha": 0, "int": 10, "dex": 5, "luck": 4, "rarity":"set"},
+    "Suihua": {"slot": ["right"], "set": "Cultivator Gear", "parts": 15, "att": 5, "cha": 5, "int": 5, "dex": 5, "luck": 5, "rarity":"set"},
+    "Hundred Holes": {"slot": ["charm"], "set": "Cultivator Gear", "parts": 15, "att": -10, "cha": -10, "int": -10, "dex": -10, "luck": -10, "rarity":"set"},
+    "Bichen": {"slot": ["right"], "set": "Cultivator Gear", "parts": 15, "att": 9, "cha": 0, "int": 7, "dex": 5, "luck": 0, "rarity":"set"},
+    "Baxia": {"slot": ["left"], "set": "Cultivator Gear", "parts": 15, "att": 14, "cha": 0, "int": 0, "dex": 3, "luck": 10, "rarity":"set"},
+    "Shuanghua": {"slot": ["right"], "set": "Cultivator Gear", "parts": 15, "att": 9, "cha": 0, "int": 0, "dex": 5, "luck": -5, "rarity":"set"},
+    "Fuxue": {"slot": ["right"], "set": "Cultivator Gear", "parts": 15, "att": 7, "cha": 7, "int": 0, "dex": 7, "luck": 0, "rarity":"set"},
+    "Shuoyue": {"slot": ["right"], "set": "Cultivator Gear", "parts": 15, "att": 6, "cha": 8, "int": 3, "dex": 3, "luck": 3, "rarity":"set"},
+    "Liebing": {"slot": ["right", "left"], "set": "Cultivator Gear", "parts": 15, "att": 0, "cha": 9, "int": 0, "dex": 0, "luck": 0, "rarity":"set"},
+    "Jiangzai": {"slot": ["left"], "set": "Cultivator Gear", "parts": 15, "att": 13, "cha": 0, "int": 0, "dex": 10, "luck": 7, "rarity":"set"},
+    "Stygian Tiger Seal": {"slot": ["left"], "set": "Cultivator Gear", "parts": 15, "att": 0, "cha": 0, "int": 14, "dex": 7, "luck": 7, "rarity":"set"},
+
+    "Garrote Wire": {"slot": ["right", "left"], "set": "Jin Guangyao", "parts": 2, "att": 7, "cha": 0, "int": 0, "dex": 9, "luck": 0, "rarity":"set"},
+    "Song of Turmoil": {"slot": ["charm"], "set": "Jin Guangyao", "parts": 2, "att": 0, "cha": 0, "int": 5, "dex": 0, "luck": 0, "rarity":"set"},  
+
+    "Amethyst Ring": {"slot": ["ring"], "set": "Jiang Cheng", "parts": 6, "att": 0, "cha": 0, "int": 0, "dex": 9, "luck": 4, "rarity":"set"},
+    "Violet Spider Belt": {"slot": ["belt"], "set": "Jiang Cheng", "parts": 6, "att": 9, "cha": -4, "int": 0, "dex": 5, "luck": 5, "rarity":"set"},
+    "Discipline Whip Scar": {"slot": ["chest"], "set": "Jiang Cheng", "parts": 6, "att": 0, "cha": 0, "int": 0, "dex": -3, "luck": 4, "rarity":"set"},
+    "Red Wedding Shoes": {"slot": ["boots"], "set": "Jiang Cheng", "parts": 6, "att": 3, "cha": 10, "int": 3, "dex": -1, "luck": 4, "rarity":"set"},
+    "Unresolved Sibling Issues": {"slot": ["neck"], "set": "Jiang Cheng", "parts": 6, "att": 9, "cha": -5, "int": 3, "dex": 6, "luck": -2, "rarity":"set"},
+    "Yunmeng Jiang Bell": {"slot": ["charm"], "set": "Jiang Cheng", "parts": 6, "att": 0, "cha": 8, "int": 0, "dex": 8, "luck": 8, "rarity":"set"},
+    
+    "Forehead Ribbon": {"slot": ["head"], "set": "Lan Wangji", "parts": 4, "att": 6, "cha": 3, "int": 4, "dex": 2, "luck": 2, "rarity":"set"},
+    "Song of Inquiry": {"slot": ["charm"], "set": "Lan Wangji", "parts": 4, "att": 4, "cha": 3, "int": 7, "dex": 1, "luck": 1, "rarity":"set"},
+    "Stolen Chicken": {"slot": ["ring"], "set": "Lan Wangji", "parts": 4, "att": 7, "cha": 7, "int": 7, "dex": 7, "luck": 7, "rarity":"set"},
+    "Wangji": {"slot": ["right", "left"], "set": "Lan Wangji", "parts": 4, "att": 0, "cha": 0, "int": 10, "dex": -3, "luck": 0, "rarity":"set"}
+	}
+
+

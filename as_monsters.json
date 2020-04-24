@@ -1,0 +1,25 @@
+{
+    "Hanguang-Jun": {"hp": 200, "pdef": 1.35, "mdef": 1.35, "dipl": 300, "image": "https://i.imgur.com/R5Ekmel.jpg?1", "boss": true, "miniboss": {"requirements": ["members", 6], "defeat": "With so few adventurers, Hanguang-Jun slays everyone with a strum of Wangji.", "special": "slay"}, "color": ""}, 
+    "Lan Wangji seeking shelter from the rain": {"hp": 50, "pdef": 0.9, "mdef": 0.9, "dipl": 150, "image": "https://i.imgur.com/5PSnA8G.png?1", "boss": false, "miniboss": {}, "color": ""}, 
+    "happy Lan Wangji": {"hp": 150, "pdef": 1.10, "mdef": 1.15, "dipl": 200, "image": "https://i.imgur.com/zSaEmfh.png?1", "boss": false, "miniboss": {}, "color": ""},
+    "Yiling Laozu": {"hp": 160, "pdef": 1.025, "mdef": 1.5, "dipl": 300, "image": "https://cdn.discordapp.com/attachments/634773982616223791/683335725512523781/tumblr_p8fax8k42I1rvyuv3o7_r1_400.gif", "boss": true, "miniboss": { }, "color": ""}, 
+    "Yiling Laozu and the Ghost General": {"hp": 400, "pdef": 1.5, "mdef": 1.5, "dipl": 200, "image": "https://i.imgur.com/CnTWGbY.jpg", "boss": true, "miniboss": {}, "color": ""}, 
+    "young Wangxian": {"hp": 150, "pdef": 1, "mdef": 1, "dipl": 200, "image": "https://i.imgur.com/a1ag9EH.jpg", "boss": true, "miniboss": {}, "color": ""}, 
+    "studying Wei Wuxian (CQL)": {"hp": 200, "pdef": 1, "mdef": 0.9, "dipl": 200, "image": "https://i.imgur.com/OtwYIdk.jpg", "boss": true, "miniboss": {}, "color": ""}, 
+    "Yiling Laozu and Jin Ling": {"hp": 180, "pdef": 1, "mdef": 1.10, "dipl": 100, "image": "https://i.imgur.com/dN6ZIeM.jpg", "boss": true, "miniboss": {}, "color": ""}, 
+    "karaoke Wei Wuxian": {"hp": 200, "pdef": 1, "mdef": 1.15, "dipl": 250, "image": "https://i.imgur.com/gnVq6TP.jpg", "boss": true, "miniboss": {}, "color": ""}, 
+    "mother and son": {"hp": 150, "pdef": 1.35, "mdef": 1.5, "dipl": 100, "image": "https://i.imgur.com/HYRfF1R.jpg", "boss": true, "miniboss": {}, "color": ""}, 
+    "nendoroid Wei Wuxian": {"hp": 100, "pdef": 1, "mdef": 1, "dipl": 300, "image": "https://i.imgur.com/tPvDYeu.jpg", "boss": true, "miniboss": {}, "color": ""}, 
+    "Wei Wuxian's cooking show": {"hp": 200, "pdef": 1.35, "mdef": 1.10, "dipl": 250, "image": "https://i.imgur.com/gcMhy24.jpg", "boss": true, "miniboss": {}, "color": ""}, 
+    "smiling Yiling Laozu": {"hp": 300, "pdef": 1.5, "mdef": 1.5, "dipl": 200, "image": "https://i.imgur.com/Rra087z.jpg", "boss": true, "miniboss": {}, "color": ""},
+    "Wei Wuxian's happy family": {"hp": 250, "pdef": 1.35, "mdef": 1.35, "dipl": 400, "image": "https://i.imgur.com/YKvK8BB.png", "boss": true, "miniboss": {"requirements": ["members", 6], "defeat": "With so few adventurers, Wei Wuxian and his family absolutely destroy the party.", "special": "destroy"}, "color": ""},
+    "Sandu Shengshou": {"hp": 300, "pdef": 1.5, "mdef": 1.5, "dipl": 300, "image": "https://i.imgur.com/2hJmB6s.gif", "boss": true, "miniboss": { }, "color": " "}, 
+    "pissed Jiang Cheng": {"hp": 100, "pdef": 1.15, "mdef": 1.25, "dipl": 100, "image": "https://i.imgur.com/7AUC0Jr.jpg?1", "boss": false, "miniboss": {}, "color": ""}, 
+    "facepalming Jiang Cheng": {"hp": 80, "pdef": 1, "mdef": 1, "dipl": 50, "image": "https://i.imgur.com/144XIGF.jpg", "boss": false, "miniboss": {}, "color": ""},
+    "unimpressed Jiang Cheng": {"hp": 70, "pdef": 1, "mdef": 1.25, "dipl": 80, "image": "https://i.imgur.com/GbnATWu.jpg", "boss": false, "miniboss": {}, "color": ""}, 
+    "teenage Jiang Cheng": {"hp": 80, "pdef": 1, "mdef": 1.10, "dipl": 70, "image": "https://i.imgur.com/My3SFph.jpg", "boss": false, "miniboss": {}, "color": ""},
+    "Ascended Uncle": {"hp": 150,  "pdef": 1,  "mdef": 1.15,  "dipl": 200,  "image": "https://cdn.discordapp.com/attachments/634773982616223791/683335965707599898/Di65XjhV4AEXO2C.jpg",  "boss": true,  "miniboss": { },  "color": " "},
+    "Ascended Madam Wen": {"hp": 120,  "pdef": 1,  "mdef": 1.25,  "dipl": 90,  "image": "https://cdn.discordapp.com/attachments/634773982616223791/690454955898961920/sowwy_zewu_jun_part_3.png",  "boss": true,  "miniboss": { },  "color": " "},
+    "Ascended Jiggypuff": {"hp": 100,  "pdef": 1.25,  "mdef": 1,  "dipl": 10,  "image": "https://cdn.discordapp.com/attachments/634773982616223791/690949133334347816/tumblr_pjjkwoIGmJ1xk48ago1_640.png",  "boss": true,  "miniboss": { },  "color": " "}
+
+}

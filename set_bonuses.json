@@ -1,0 +1,7 @@
+{
+	"Wei Wuxian" : [{"parts": 7, "att": 25, "cha": 30, "int": 20, "dex": 25, "luck": -10, "statmult": 1.6, "xpmult": 2, "cpmult": 1}],
+	"Cultivator Gear" : [{"parts": 15, "att": 1, "cha": 1, "int": 1, "dex": 1, "luck": 1, "statmult": 1, "xpmult": 1, "cpmult": 1}],
+	"Jin Guangyao" : [{"parts": 2, "att": 0, "cha": 10, "int": 9, "dex": 1, "luck": 2, "statmult": 2, "xpmult": 2, "cpmult": 2}],
+	"Jiang Cheng" : [{"parts": 6, "att": 15, "cha": 10, "int": 10, "dex": 20, "luck": -20, "statmult": 1.2, "xpmult": 1, "cpmult": 0}],
+	"Lan Wangji" : [{"parts": 4, "att": 30, "cha": 10, "int": 20, "dex": 20, "luck": 10, "statmult": 1.2, "xpmult": 1, "cpmult": 1.3}]
+}
